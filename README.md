@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriela+Lemos;I'm+26+years+old;I'm+from+Brazil;I'm+a+Full+Stack+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabilemos0&bg_color=0d1117&color=FFFFFF&line=b13583&point=ff9494&area=true)](https://github.com/gabilemos0/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabilemos0&bg_color=0d1117&color=FFFFFF&line=b13583&point=ff9494&area=true)](https://github.com/gabilemos0/github-readme-activity-graph) -->
 
 
 <div align="center">  
